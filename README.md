@@ -1,4 +1,5 @@
-22 A collection of optional challenges and solutions3
+## A collection of optional JavaScript challenges
+
 - [Challenge 1](./challenge1.md)
 - [Challenge 2](./challenge2.md)
 - [Challenge 3](./challenge3.md)
