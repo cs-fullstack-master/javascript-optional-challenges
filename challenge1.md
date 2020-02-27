@@ -3,8 +3,7 @@
 ## Create mailing label program to print labels
 
 1. Create variables for name, street address, city, state, zip code for 3 people
-2. Create a `printLabel()` function that takes all the variables for a person and will use a template literal to create a 
-formatted label string like the following:
+2. Create a `printLabel()` function that takes all the variables for a person and will use a template literal to create a formatted label string like the following:
 
 Example Output:
 ```
